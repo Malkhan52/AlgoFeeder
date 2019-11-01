@@ -1,0 +1,7 @@
+# compiled stuff
+*.o
+*.out
+# Windows compiled stuff
+*.exe
+*.obj
+result
