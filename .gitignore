@@ -1,7 +1,15 @@
 # compiled stuff
 *.o
 *.out
+*.a
 # Windows compiled stuff
 *.exe
 *.obj
 result
+#cmake build files
+devel
+build
+.catkin_tools
+CMakeCache.txt
+CMakeFiles
+logs
